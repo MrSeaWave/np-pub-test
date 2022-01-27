@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \" run test\"",
-    "version": "echo version && git add doc.md",
+    "test": "echo \" -------run test---------- \"",
     "release": "np --no-yarn"
   },
   "repository": {
