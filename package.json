@@ -8,8 +8,7 @@
   ],
   "scripts": {
     "test": "echo \" -------run test---------- \"",
-    "release": "np --no-yarn --no-2fa",
-    "release:test": "np --no-yarn --no-2fa --no-git"
+    "release": "np --no-yarn --no-2fa --message \"chore(release): v%s \""
   },
   "repository": {
     "type": "git",
