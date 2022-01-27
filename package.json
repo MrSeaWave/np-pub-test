@@ -19,6 +19,9 @@
   "bugs": {
     "url": "https://github.com/MrSeaWave/np-pub-test/issues"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "homepage": "https://github.com/MrSeaWave/np-pub-test#readme",
   "devDependencies": {
     "np": "^7.6.0"
