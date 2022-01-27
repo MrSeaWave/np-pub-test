@@ -1,0 +1,21 @@
+{
+  "name": "np-pub-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" run test\"",
+    "version": "echo version && git add doc.md",
+    "release": "np --no-yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSeaWave/np-pub-test.git"
+  },
+  "author": "Sea <MrDaemon@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrSeaWave/np-pub-test/issues"
+  },
+  "homepage": "https://github.com/MrSeaWave/np-pub-test#readme"
+}
