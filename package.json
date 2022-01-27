@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MrSeaWave/np-pub-test/issues"
   },
-  "homepage": "https://github.com/MrSeaWave/np-pub-test#readme"
+  "homepage": "https://github.com/MrSeaWave/np-pub-test#readme",
+  "devDependencies": {
+    "np": "^7.6.0"
+  }
 }
