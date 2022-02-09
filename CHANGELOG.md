@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 
+## [1.0.11][] - 2022-02-09
+
 ### Fixed
 
 - 防止 vscode 自动小写
@@ -44,7 +46,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 <!-- 链接 -->
 
 <!-- prettier-ignore -->
-[Unreleased]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.10...HEAD
+[Unreleased]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.11...HEAD
+[1.0.11]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.10...v1.0.11
 [1.0.10]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.9...v1.0.10
 [1.0.7]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.6
