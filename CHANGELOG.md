@@ -31,13 +31,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - update ChangeLog to 1.0.8
 
-## [v1.0.7]() - 2022-02-08
+## [1.0.7][] - 2022-02-08
 
 ### Added
 
 - test
 
-## [v1.0.6]() - 2022-02-08
+## [1.0.6][] - 2022-02-08
 
 ### Added
 
@@ -49,7 +49,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 [Unreleased]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.11...HEAD
 [1.0.11]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.10...v1.0.11
 [1.0.10]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.9...v1.0.10
+[1.0.9]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.9
+[1.0.8]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.8
 [1.0.7]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.6
-[1.0.8]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.8
-[1.0.9]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.9
