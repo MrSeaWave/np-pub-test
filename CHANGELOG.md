@@ -12,3 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - test
+
+
+[Unreleased]: https://github.com/MrSeaWave/np-pub-test/compare/v1.0.6...HEAD
+[1.0.6]: https://github.com/MrSeaWave/np-pub-test/tree/v1.0.6
