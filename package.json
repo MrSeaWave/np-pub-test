@@ -8,7 +8,8 @@
   ],
   "scripts": {
     "test": "echo \" -------run test---------- \"",
-    "release": "np --no-2fa --message \"chore(release): v%s \""
+    "release": "np --no-2fa --message \"chore(release): v%s \"",
+    "version": "version-changelog CHANGELOG.md && changelog-verify CHANGELOG.md && git add CHANGELOG.md"
   },
   "repository": {
     "type": "git",
