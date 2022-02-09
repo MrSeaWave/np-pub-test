@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/MrSeaWave/np-pub-test#readme",
   "devDependencies": {
+    "changelog-verify": "^1.1.2",
     "np": "^7.6.0"
   }
 }
