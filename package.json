@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \" -------run test---------- \"",
     "release": "np --no-2fa --message \"chore(release): v%s \"",
+    "version:tips": "---------- 在运行version时，更新 CHANGELOG 并提交",
     "version": "version-changelog CHANGELOG.md && changelog-verify CHANGELOG.md && git add CHANGELOG.md"
   },
   "repository": {
